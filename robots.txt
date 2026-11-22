@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://pruthviksp29.github.io/orbitbase-nexus-trainer/sitemap.xml
